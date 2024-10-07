@@ -6,5 +6,6 @@ This repository contains notebooks that demonstrate the implementation of a refe
 We used a 4-year dataset (2015 to 2018) of patients from one institution. The dataset contains information across the following subject areas:
 * General laboratory results
 * Diagnosis subject area with patient BMI features
+* Problem list subject area with SNOMED coded diagnosis
 * Drug dispensed subject area
 
