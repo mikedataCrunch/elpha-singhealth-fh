@@ -82,7 +82,6 @@ secondary_pregnancy_terms = [
 ]
 
 
-
 llt_meds = [
     'simvastatin',
     'lovastatin',
@@ -151,6 +150,13 @@ llt_meds = [
     'trinomia',
 ]
 
+fh_snomed = [
+    
+]
+
+fh_icd10 = [
+    
+]
 
 # # stage 1 utils
 # secondary_dia = [
